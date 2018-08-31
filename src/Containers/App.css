@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Skranji:400,700&subset=latin-ext');
+
+h1 {
+    font-family: 'Skranji', cursive;
+    font-size: 50px;
+    color: #fff;
+    font-weight: bold;
+}
+span {
+    color: rgb(255, 97, 97);
+}
